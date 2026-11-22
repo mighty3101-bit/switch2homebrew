@@ -8,28 +8,22 @@ Ajouter cette source dans le gestionnaire de dépôts de Sphaira :
 
 `https://raw.githubusercontent.com/mighty3101-bit/switch2homebrew/main/repo.json`
 
-## Provenance
+## Catalogue
 
-Les projets de ce dépôt sont sélectionnés depuis le catalogue **Switch 2 Homebrew Library** : https://switch2homebrew.com/
+Le dépôt reprend les **95 fiches** du répertoire officiel [Switch 2 Homebrew Library](https://switch2homebrew.com/projects), réparties en cinq catégories. La liste source complète est aussi disponible dans [catalog.json](catalog.json).
 
-Ce dépôt ne reprend pas le catalogue Brewstore. Il contient actuellement 7 projets visibles dans le catalogue Switch2Homebrew dont j'ai pu vérifier le dépôt amont, la release et l'asset Switch 2 correspondant :
+- 17 émulateurs
+- 35 ports de jeux
+- 20 applications streaming et multimédia
+- 18 utilitaires
+- 5 outils de développement
 
-- RetroArch for Switch 2
-- KaiKart
-- Moonlight-nx2
-- SW2NES
-- SW2SNES
-- OpenBLOPS-NX
-- Need for Speed: Hot Pursuit 2
+Les fiches ont été importées depuis le HTML du répertoire officiel fourni par l'utilisateur. Les 7 entrées pour lesquelles des métadonnées de release étaient déjà présentes dans ce dépôt ont été conservées ; les autres entrées pointent vers leur fiche officielle.
 
-Le site référence 95 projets au total. Tous ne sont pas des builds installables : ses statuts distinguent les builds publics, versions early/bêta, sources expérimentales, démos et références. Les fiches sans binaire Switch 2 vérifiable ne sont pas ajoutées comme installations Sphaira. Cette première version est donc un sous-ensemble vérifié, pas un miroir complet des 95 fiches.
+## Disponibilité des installations
 
-## Données et précautions
+**95 fiches cataloguées ne signifient pas 95 téléchargements installables depuis Sphaira.** Pour les projets sans asset, version ou manifeste d'installation vérifiés, aucune URL de binaire, version, empreinte ou auteur n'a été inventé. Leur fiche officielle reste accessible depuis l'entrée correspondante. Il faudra compléter ces métadonnées au fur et à mesure de la vérification des releases et des formats d'installation compatibles avec Sphaira.
 
-- Les assets de release sont résolus depuis les dépôts GitHub/GitLab amont par Sphaira.
-- Les sommes SHA-256 publiées par GitHub sont renseignées lorsqu'elles sont disponibles.
-- RetroArch est une archive volumineuse ; Sphaira doit la télécharger en mode fichier.
-- OpenBLOPS-NX et Need for Speed: Hot Pursuit 2 nécessitent des données de jeu personnelles. Aucun jeu, ROM, BIOS, firmware ou clé n'est fourni ici.
-- Vérifier les notes amont et les exigences de chaque projet avant installation. kaiHEN est expérimental et les homebrews ont un accès système étendu.
+Certains ports nécessitent les données extraites d'une copie de jeu que l'utilisateur possède. Aucun jeu, ROM, BIOS, firmware ou clé n'est fourni ici.
 
 Les auteurs conservent leurs droits et licences respectifs.
