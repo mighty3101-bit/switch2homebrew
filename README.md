@@ -1,22 +1,35 @@
 # Switch 2 Homebrew — dépôt Sphaira
 
-Dépôt personnalisé pour **Sphaira 1.1.1 sur Nintendo Switch 2 avec kaiHEN**.
+Dépôt tiers au format **Sphaira App Store**, destiné à Sphaira 1.1.1 sur Nintendo Switch 2 / kaiHEN.
 
-## Ajouter dans Sphaira
+## Ajouter à Sphaira
 
-Dans le gestionnaire de sources de l'App Store de Sphaira, ajoute cette URL :
+Ajouter cette source dans le gestionnaire de dépôts de Sphaira :
 
 `https://raw.githubusercontent.com/mighty3101-bit/switch2homebrew/main/repo.json`
 
-## Catalogue
+## Provenance
 
-`repo.json` suit le format lu par Sphaira : un objet contenant `packages`. Les entrées publiées ici référencent les releases et les assets Switch 2 correspondants, avec les informations de version et de somme SHA-256 lorsqu'elles sont disponibles.
+Les projets de ce dépôt sont sélectionnés depuis le catalogue **Switch 2 Homebrew Library** : https://switch2homebrew.com/
 
-Le premier import contient **66 projets** issus du catalogue public Brewstore Switch 2, dont les assets, tags de release, URL de téléchargement et sommes SHA-256 étaient déjà renseignés. Ce n'est donc **pas encore l'intégralité des 95 projets** répertoriés sur https://switch2homebrew.com/. Je préfère laisser de côté les autres entrées plutôt que de publier des liens d'installation non vérifiés ou des binaires incompatibles.
+Ce dépôt ne reprend pas le catalogue Brewstore. Il contient actuellement 7 projets visibles dans le catalogue Switch2Homebrew dont j'ai pu vérifier le dépôt amont, la release et l'asset Switch 2 correspondant :
 
-## Précautions
+- RetroArch for Switch 2
+- KaiKart
+- Moonlight-nx2
+- SW2NES
+- SW2SNES
+- OpenBLOPS-NX
+- Need for Speed: Hot Pursuit 2
 
-- Vérifie les exigences et la compatibilité de chaque projet avant installation.
-- Certains ports nécessitent des fichiers de jeu que tu dois fournir toi-même depuis ta copie légale.
-- Ce dépôt ne distribue aucune ROM, donnée de jeu commerciale, clé ni firmware.
-- Les projets et leurs binaires restent la propriété de leurs auteurs respectifs.
+Le site référence 95 projets au total. Tous ne sont pas des builds installables : ses statuts distinguent les builds publics, versions early/bêta, sources expérimentales, démos et références. Les fiches sans binaire Switch 2 vérifiable ne sont pas ajoutées comme installations Sphaira. Cette première version est donc un sous-ensemble vérifié, pas un miroir complet des 95 fiches.
+
+## Données et précautions
+
+- Les assets de release sont résolus depuis les dépôts GitHub/GitLab amont par Sphaira.
+- Les sommes SHA-256 publiées par GitHub sont renseignées lorsqu'elles sont disponibles.
+- RetroArch est une archive volumineuse ; Sphaira doit la télécharger en mode fichier.
+- OpenBLOPS-NX et Need for Speed: Hot Pursuit 2 nécessitent des données de jeu personnelles. Aucun jeu, ROM, BIOS, firmware ou clé n'est fourni ici.
+- Vérifier les notes amont et les exigences de chaque projet avant installation. kaiHEN est expérimental et les homebrews ont un accès système étendu.
+
+Les auteurs conservent leurs droits et licences respectifs.
