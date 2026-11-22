@@ -1,0 +1,489 @@
+{
+  "source": "https://switch2homebrew.com/projects",
+  "extracted_from": "User-provided saved HTML of the official project directory",
+  "project_count": 95,
+  "categories": {
+    "Emulators": 17,
+    "Game ports": 35,
+    "Streaming & media": 20,
+    "Utilities": 18,
+    "Development tools": 5
+  },
+  "projects": [
+    {
+      "category": "Emulators",
+      "title": "Cemu-NX2",
+      "url": "https://switch2homebrew.com/projects/cemu-nx2"
+    },
+    {
+      "category": "Emulators",
+      "title": "Dolphin NX2",
+      "url": "https://switch2homebrew.com/projects/dolphin-nx2"
+    },
+    {
+      "category": "Emulators",
+      "title": "Eden on Switch 2",
+      "url": "https://switch2homebrew.com/projects/eden-on-switch-2"
+    },
+    {
+      "category": "Emulators",
+      "title": "Gravity Rush NX2",
+      "url": "https://switch2homebrew.com/projects/gravity-rush-nx2"
+    },
+    {
+      "category": "Emulators",
+      "title": "IZPSX",
+      "url": "https://switch2homebrew.com/projects/izpsx"
+    },
+    {
+      "category": "Emulators",
+      "title": "Kaizhar",
+      "url": "https://switch2homebrew.com/projects/kaizhar"
+    },
+    {
+      "category": "Emulators",
+      "title": "melonDS-switch2",
+      "url": "https://switch2homebrew.com/projects/melonds-switch2"
+    },
+    {
+      "category": "Emulators",
+      "title": "mGBA",
+      "url": "https://switch2homebrew.com/projects/mgba"
+    },
+    {
+      "category": "Emulators",
+      "title": "OunceSX2",
+      "url": "https://switch2homebrew.com/projects/ouncesx2"
+    },
+    {
+      "category": "Emulators",
+      "title": "PPSSPP-NX2 by David Kalil",
+      "url": "https://switch2homebrew.com/projects/ppsspp-nx2-by-david-kalil"
+    },
+    {
+      "category": "Emulators",
+      "title": "PPSSPP-NX2 by XITRIX",
+      "url": "https://switch2homebrew.com/projects/ppsspp-nx2-by-xitrix"
+    },
+    {
+      "category": "Emulators",
+      "title": "RetroArch",
+      "url": "https://switch2homebrew.com/projects/retroarch"
+    },
+    {
+      "category": "Emulators",
+      "title": "SW2NES",
+      "url": "https://switch2homebrew.com/projects/sw2nes"
+    },
+    {
+      "category": "Emulators",
+      "title": "SW2PS2",
+      "url": "https://switch2homebrew.com/projects/sw2ps2"
+    },
+    {
+      "category": "Emulators",
+      "title": "SW2SNES",
+      "url": "https://switch2homebrew.com/projects/sw2snes"
+    },
+    {
+      "category": "Emulators",
+      "title": "Toronja",
+      "url": "https://switch2homebrew.com/projects/toronja"
+    },
+    {
+      "category": "Emulators",
+      "title": "Vita3K-nx and Vita3K-nx2",
+      "url": "https://switch2homebrew.com/projects/vita3k-nx-and-vita3k-nx2"
+    },
+    {
+      "category": "Game ports",
+      "title": "Angry Birds Reloaded",
+      "url": "https://switch2homebrew.com/projects/angry-birds-reloaded"
+    },
+    {
+      "category": "Game ports",
+      "title": "Balatro",
+      "url": "https://switch2homebrew.com/projects/balatro"
+    },
+    {
+      "category": "Game ports",
+      "title": "Cave Story / NXEngine-evo",
+      "url": "https://switch2homebrew.com/projects/cave-story-nxengine-evo"
+    },
+    {
+      "category": "Game ports",
+      "title": "Celeste Classic",
+      "url": "https://switch2homebrew.com/projects/celeste-classic"
+    },
+    {
+      "category": "Game ports",
+      "title": "Chocolate Doom",
+      "url": "https://switch2homebrew.com/projects/chocolate-doom"
+    },
+    {
+      "category": "Game ports",
+      "title": "DiRT 2",
+      "url": "https://switch2homebrew.com/projects/dirt-2"
+    },
+    {
+      "category": "Game ports",
+      "title": "Donkey Kong Country 2 and 3",
+      "url": "https://switch2homebrew.com/projects/donkey-kong-country-2-and-3"
+    },
+    {
+      "category": "Game ports",
+      "title": "Dr. Robotnik’s Ring Racers",
+      "url": "https://switch2homebrew.com/projects/dr-robotniks-ring-racers"
+    },
+    {
+      "category": "Game ports",
+      "title": "Dusklight",
+      "url": "https://switch2homebrew.com/projects/dusklight"
+    },
+    {
+      "category": "Game ports",
+      "title": "FastCars Recomp NX2",
+      "url": "https://switch2homebrew.com/projects/fastcars-recomp-nx2"
+    },
+    {
+      "category": "Game ports",
+      "title": "Grand Theft Auto: Vice City",
+      "url": "https://switch2homebrew.com/projects/grand-theft-auto-vice-city"
+    },
+    {
+      "category": "Game ports",
+      "title": "Half-Life",
+      "url": "https://switch2homebrew.com/projects/half-life"
+    },
+    {
+      "category": "Game ports",
+      "title": "IZDOOM",
+      "url": "https://switch2homebrew.com/projects/izdoom"
+    },
+    {
+      "category": "Game ports",
+      "title": "KaiKart",
+      "url": "https://switch2homebrew.com/projects/kaikart"
+    },
+    {
+      "category": "Game ports",
+      "title": "LEGO Star Wars: The Complete Saga",
+      "url": "https://switch2homebrew.com/projects/lego-star-wars-the-complete-saga"
+    },
+    {
+      "category": "Game ports",
+      "title": "Lost Odyssey Recomp",
+      "url": "https://switch2homebrew.com/projects/lost-odyssey-recomp"
+    },
+    {
+      "category": "Game ports",
+      "title": "Metroid: Zero Mission NX",
+      "url": "https://switch2homebrew.com/projects/metroid-zero-mission-nx"
+    },
+    {
+      "category": "Game ports",
+      "title": "Need for Speed: Hot Pursuit 2",
+      "url": "https://switch2homebrew.com/projects/need-for-speed-hot-pursuit-2"
+    },
+    {
+      "category": "Game ports",
+      "title": "Nic Cage Eats Stuff",
+      "url": "https://switch2homebrew.com/projects/nic-cage-eats-stuff"
+    },
+    {
+      "category": "Game ports",
+      "title": "OpenBLOPS-NX",
+      "url": "https://switch2homebrew.com/projects/openblops-nx"
+    },
+    {
+      "category": "Game ports",
+      "title": "OpenRac",
+      "url": "https://switch2homebrew.com/projects/openrac"
+    },
+    {
+      "category": "Game ports",
+      "title": "OpenRCT2",
+      "url": "https://switch2homebrew.com/projects/openrct2"
+    },
+    {
+      "category": "Game ports",
+      "title": "OunceDonut and Bad Apple!",
+      "url": "https://switch2homebrew.com/projects/ouncedonut-and-bad-apple"
+    },
+    {
+      "category": "Game ports",
+      "title": "Ouncetato",
+      "url": "https://switch2homebrew.com/projects/ouncetato"
+    },
+    {
+      "category": "Game ports",
+      "title": "Perfect Dark",
+      "url": "https://switch2homebrew.com/projects/perfect-dark"
+    },
+    {
+      "category": "Game ports",
+      "title": "Pokémon Platinum",
+      "url": "https://switch2homebrew.com/projects/pokemon-platinum"
+    },
+    {
+      "category": "Game ports",
+      "title": "ScummVM-S2",
+      "url": "https://switch2homebrew.com/projects/scummvm-s2"
+    },
+    {
+      "category": "Game ports",
+      "title": "Skate 3",
+      "url": "https://switch2homebrew.com/projects/skate-3"
+    },
+    {
+      "category": "Game ports",
+      "title": "Sonic 3 A.I.R.",
+      "url": "https://switch2homebrew.com/projects/sonic-3-a-i-r"
+    },
+    {
+      "category": "Game ports",
+      "title": "Sonic Robo Blast 2",
+      "url": "https://switch2homebrew.com/projects/sonic-robo-blast-2"
+    },
+    {
+      "category": "Game ports",
+      "title": "Sonic Unleashed Recompiled",
+      "url": "https://switch2homebrew.com/projects/sonic-unleashed-recompiled"
+    },
+    {
+      "category": "Game ports",
+      "title": "Super Mario 64 EX Alo",
+      "url": "https://switch2homebrew.com/projects/super-mario-64-ex-alo"
+    },
+    {
+      "category": "Game ports",
+      "title": "Super Smash Bros. Melee",
+      "url": "https://switch2homebrew.com/projects/super-smash-bros-melee"
+    },
+    {
+      "category": "Game ports",
+      "title": "Torchlight Rekindled",
+      "url": "https://switch2homebrew.com/projects/torchlight-rekindled"
+    },
+    {
+      "category": "Game ports",
+      "title": "xStarbound",
+      "url": "https://switch2homebrew.com/projects/xstarbound"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Chiaki-ng / Akira",
+      "url": "https://switch2homebrew.com/projects/chiaki-ng-akira"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Chromium NX",
+      "url": "https://switch2homebrew.com/projects/chromium-nx"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Gamepad Media Center Aggregator",
+      "url": "https://switch2homebrew.com/projects/gamepad-media-center-aggregator"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Green NX",
+      "url": "https://switch2homebrew.com/projects/green-nx"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Jellyfin by THZoria and YAJA",
+      "url": "https://switch2homebrew.com/projects/jellyfin-by-thzoria-and-yaja"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "KaiPlayer",
+      "url": "https://switch2homebrew.com/projects/kaiplayer"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "KaiRadio",
+      "url": "https://switch2homebrew.com/projects/kairadio"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "KaiTube",
+      "url": "https://switch2homebrew.com/projects/kaitube"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "KaiVideo",
+      "url": "https://switch2homebrew.com/projects/kaivideo"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Kodi for Switch 2",
+      "url": "https://switch2homebrew.com/projects/kodi-ns2"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Moonlight-nx2 by Azkali",
+      "url": "https://switch2homebrew.com/projects/moonlight-nx2-by-azkali"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Moonlight-Switch by XITRIX",
+      "url": "https://switch2homebrew.com/projects/moonlight-switch-by-xitrix"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "NetSurf Switch 2",
+      "url": "https://switch2homebrew.com/projects/netsurf-switch2"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "PunktFunk",
+      "url": "https://switch2homebrew.com/projects/punktfunk"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "SimpleStreamer",
+      "url": "https://switch2homebrew.com/projects/simplestreamer"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "StremNX2",
+      "url": "https://switch2homebrew.com/projects/stremnx2"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Super Moonlight NX2",
+      "url": "https://switch2homebrew.com/projects/super-moonlight-nx2"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Switch2IPTV",
+      "url": "https://switch2homebrew.com/projects/switch2iptv"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "Switchfin NX2",
+      "url": "https://switch2homebrew.com/projects/switchfin-nx2"
+    },
+    {
+      "category": "Streaming & media",
+      "title": "SwitchNOW",
+      "url": "https://switch2homebrew.com/projects/switchnow"
+    },
+    {
+      "category": "Utilities",
+      "title": "Brewstore",
+      "url": "https://switch2homebrew.com/projects/brewstore"
+    },
+    {
+      "category": "Utilities",
+      "title": "Checkpoint",
+      "url": "https://switch2homebrew.com/projects/checkpoint"
+    },
+    {
+      "category": "Utilities",
+      "title": "CivSwitch-SerialBridge",
+      "url": "https://switch2homebrew.com/projects/civswitch-serialbridge"
+    },
+    {
+      "category": "Utilities",
+      "title": "Force Internal Speakers",
+      "url": "https://switch2homebrew.com/projects/force-internal-speakers"
+    },
+    {
+      "category": "Utilities",
+      "title": "IZ2S Cheese",
+      "url": "https://switch2homebrew.com/projects/iz2s-cheese"
+    },
+    {
+      "category": "Utilities",
+      "title": "JKSV-NS2",
+      "url": "https://switch2homebrew.com/projects/jksv-ns2"
+    },
+    {
+      "category": "Utilities",
+      "title": "KaiDrop",
+      "url": "https://switch2homebrew.com/projects/kaidrop"
+    },
+    {
+      "category": "Utilities",
+      "title": "NHSE",
+      "url": "https://switch2homebrew.com/projects/nhse"
+    },
+    {
+      "category": "Utilities",
+      "title": "NXGallery",
+      "url": "https://switch2homebrew.com/projects/nxgallery"
+    },
+    {
+      "category": "Utilities",
+      "title": "Ounce HBMenu",
+      "url": "https://switch2homebrew.com/projects/ounce-hbmenu"
+    },
+    {
+      "category": "Utilities",
+      "title": "OunceMTP",
+      "url": "https://switch2homebrew.com/projects/ouncemtp"
+    },
+    {
+      "category": "Utilities",
+      "title": "OunceShell",
+      "url": "https://switch2homebrew.com/projects/ounceshell"
+    },
+    {
+      "category": "Utilities",
+      "title": "PKForge Switch 2",
+      "url": "https://switch2homebrew.com/projects/pkforge-switch2"
+    },
+    {
+      "category": "Utilities",
+      "title": "PKSM",
+      "url": "https://switch2homebrew.com/projects/pksm"
+    },
+    {
+      "category": "Utilities",
+      "title": "SD Bench",
+      "url": "https://switch2homebrew.com/projects/sd-bench"
+    },
+    {
+      "category": "Utilities",
+      "title": "Sphaira",
+      "url": "https://switch2homebrew.com/projects/sphaira"
+    },
+    {
+      "category": "Utilities",
+      "title": "SW2Transfer",
+      "url": "https://switch2homebrew.com/projects/sw2transfer"
+    },
+    {
+      "category": "Utilities",
+      "title": "Web File Manager",
+      "url": "https://switch2homebrew.com/projects/web-file-manager"
+    },
+    {
+      "category": "Development tools",
+      "title": "kaiHEN",
+      "url": "https://switch2homebrew.com/projects/kaihen"
+    },
+    {
+      "category": "Development tools",
+      "title": "Legacy packages",
+      "url": "https://switch2homebrew.com/projects/legacy-packages"
+    },
+    {
+      "category": "Development tools",
+      "title": "Native builds",
+      "url": "https://switch2homebrew.com/projects/native-builds"
+    },
+    {
+      "category": "Development tools",
+      "title": "Ounce Devkit",
+      "url": "https://switch2homebrew.com/projects/ounce-devkit"
+    },
+    {
+      "category": "Development tools",
+      "title": "Useful gameplay reports",
+      "url": "https://switch2homebrew.com/projects/useful-gameplay-reports"
+    }
+  ]
+}
